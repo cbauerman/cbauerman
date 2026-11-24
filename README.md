@@ -7,7 +7,7 @@ I am a frontend engineer with a decade of experience building web applications a
 
 ## Notable Work on GitHub
 
-I've worked on Open Source projects while employeed at [Automattic](https://github.com/automattic) and [NVIDIA](https://github.com/NVIDIA).
+I've worked on open source projects while employeed at [Automattic](https://github.com/automattic) and [NVIDIA](https://github.com/NVIDIA).
 
 - [wp-calypso](https://github.com/Automattic/wp-calypso) from 2018 through 2022 I was a frequent contributer to the React WordPress.com frontend.
 
